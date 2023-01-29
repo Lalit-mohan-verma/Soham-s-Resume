@@ -1,0 +1,40 @@
+h1{
+    padding-left: 8px;
+}
+.subheading{
+    background-color: grey;
+    padding-left: 10px;
+}
+span{
+    font-weight: bold;
+}
+.grandpa{
+    display: block;
+    /* border: 1px solid black; */
+}
+.pa{
+    display: block;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+.child{
+    display: inline-block;
+    width: 20vw;
+    text-align: center;
+    font-size: 16px;
+  
+}
+.bold{
+    font-size: 20px;
+    font-weight: bold;
+}
+.course{
+    list-style-type: none;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 4px;
+}
+hr{
+    height: 2px;
+    background-color: black;
+}
